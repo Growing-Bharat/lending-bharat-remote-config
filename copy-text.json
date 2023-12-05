@@ -3,5 +3,6 @@
    "hi":"Hi,",
    "authInputSubtext":"Enter your mobile number to continue",
    "sendOTPCTAText":"Send OTP",
-   "weHaveSentOTP": "We have sent a OTP to"
+   "weHaveSentOTP": "We have sent a OTP to",
+   "resendOTP": "Did not recieve the OTP?"
 }
