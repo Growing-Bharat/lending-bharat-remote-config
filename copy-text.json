@@ -4,5 +4,6 @@
    "authInputSubtext":"Enter your mobile number to continue",
    "sendOTPCTAText":"Send OTP",
    "weHaveSentOTP": "We have sent a OTP to",
-   "resendOTP": "Did not recieve the OTP?"
+   "resendOTP": "Did not recieve the OTP?",
+   "fillPersonalDetails": "Fill out your personal details"
 }
